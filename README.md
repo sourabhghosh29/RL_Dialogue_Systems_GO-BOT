@@ -1,2 +1,6 @@
-# RL_Dialogue_Systems_GO-BOT
-Reinforcement Learning in Dialog Systems with LU errors and User Simulation Module
+# Dialogue_Systems using Reinforcement Learning
+
+Contributors 
+1. Akhil
+2. Husen
+3. Sourabh
